@@ -24,5 +24,5 @@ My aim is to gain practical experience with Python to work efficiently on data m
 
 ## 🎯 Goal
 
-- Use Python to analyze data and extract meaningful insights  
+✦ Use Python to analyze data and extract meaningful insights  
 
