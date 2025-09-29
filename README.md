@@ -1,6 +1,7 @@
 # Python Learning for Data Analysis
 
-This repository is dedicated to my journey of learning Python, focusing only on the essentials needed for data analysis.  
+This repository is dedicated to my journey of learning Python, focusing only on the essentials needed for data analysis. 
+
 My aim is to gain practical experience with Python to work efficiently on data manipulation and analysis tasks.
 
 ## 📖 What I’m Learning
