@@ -1,0 +1,6 @@
+print("\"🔥 GRAND OPENING SALE 🔥\" ")
+print("'Come visit the all-new FreshLook\nEyewear Boutique!'") 
+print("\"Double the style, half the price.\" ")
+print("'Find your perfect pair today - limited\ntime only!'")
+print("📍 123 Main Street, Downtown")
+print("📞 Call now:""\"123","495","365",sep="-",end="8\"")
