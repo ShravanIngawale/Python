@@ -1,0 +1,3 @@
+Line 1: Python is fun
+Line 2: Practice makes perfect
+Line 3: Keep learning every day
