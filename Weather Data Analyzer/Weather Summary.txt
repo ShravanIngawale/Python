@@ -1,0 +1,6 @@
+WEATHER DATA SUMMARY
+=====================
+Average Temperature: 32.00°C
+Higher Temperature: 36.0°C (08-10-2025)
+Lowest Temperature: 28.0°C
+Total Days Analyzed: 10
