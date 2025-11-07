@@ -1,0 +1,12 @@
+CUSTOMER PURCHASE REPORT
+========================
+Total Sales: ₹175000.00
+Top Customer: Alice (₹78000.00)
+
+Spending by Customer:
+- Alice: ₹78000.00
+- Bob: ₹60000.00
+- Helen: ₹4500.00
+- Emma: ₹12000.00
+- Jack: ₹19000.00
+- Ian: ₹1500.00
